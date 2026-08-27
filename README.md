@@ -1,7 +1,7 @@
 # tmux.conf
 
 My tmux configuration, using [TPM](https://github.com/tmux-plugins/tpm) for plugins
-and the [Catppuccin](https://github.com/catppuccin/tmux) mocha theme.
+and the [Catppuccin](https://github.com/catppuccin/tmux) frappé theme.
 
 ## Install
 
